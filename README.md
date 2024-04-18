@@ -1,7 +1,3 @@
-Below is a README file crafted from the details provided in the presentation "Image Classification with Transfer Learning and Keras" that you uploaded. You can customize it further based on additional project details or setup instructions.
-
----
-
 # Image Classification with Transfer Learning
 
 ## Overview
